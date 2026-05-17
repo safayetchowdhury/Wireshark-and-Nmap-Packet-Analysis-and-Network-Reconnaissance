@@ -149,3 +149,12 @@ Here I demonstrated how easily sensitive data can be intercepted via sniffing. T
 This lab provided a hands-on look at the relationship between network reconnaissance and defensive analysis. Using Nmap helped me understand the specific "noise" an attacker makes when probing for vulnerabilities while **Wireshark** proved to be an essential tool for cutting through that noise to find real threats.
 
 Building this environment in a **Virtual Machine** allowed me to safely simulate a high-risk scenario and see exactly how unencrypted protocols like **HTTP** can lead to a total credential breach. Beyond just capturing traffic I learned that customizing tool settings, like coloring rules, which is a requirement for any analyst who wants to work efficiently in a fast-paced environment. Mastering these fundamentals is a critical step in developing a proactive mindset for security operations.
+
+
+### Connect & Explore
+
+**GitHub**: Thank you for following along! This lab is part of my ongoing commitment to mastering incident response and forensic analysis. I’m constantly adding new labs and documentation—check back soon for upcoming projects! Check out my other works below: 
+*  [**SQL-Based Security Incident Investigation**](https://github.com/safayetchowdhury/SQL-based-Security-Incident-Investigation)
+*  [**Incident Response with Splunk**](https://github.com/safayetchowdhury/Incident-Response-with-Splunk)
+
+**LinkedIn:** I’d love to **[connect](https://www.linkedin.com/in/chowdhurysafayet/)**! If you’re working in information security or are interested in these methodologies, let's discuss how we can improve security posture together.
