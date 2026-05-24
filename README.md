@@ -155,6 +155,7 @@ Building this environment in a **Virtual Machine** allowed me to safely simulate
 
 **GitHub**: Thank you for following along! This lab is part of my ongoing commitment to mastering incident response and forensic analysis. I’m constantly adding new labs and documentation—check back soon for upcoming projects! Check out my other works below: 
 *  [**SQL-Based Security Incident Investigation**](https://github.com/safayetchowdhury/SQL-based-Security-Incident-Investigation)
+*  [**Penetration Testing & Forensic Audit**](https://github.com/safayetchowdhury/Penetration-Testing-Forensic-Audit-Using-Kali-Ubuntu-Metasploit)
 *  [**Incident Response with Splunk**](https://github.com/safayetchowdhury/Incident-Response-with-Splunk)
 
 **LinkedIn:** I’d love to **[connect](https://www.linkedin.com/in/chowdhurysafayet/)**! If you’re working in information security or are interested in these methodologies, let's discuss how we can improve security posture together.
